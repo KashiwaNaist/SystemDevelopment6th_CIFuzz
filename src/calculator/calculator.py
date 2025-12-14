@@ -78,7 +78,7 @@ class Calculator:
             raise ValueError("Cannot divide by zero")
         return a / b
 
-    TODO: Implement modulo operation
+    # TODO: Implement modulo operation
     def modulo(self, a, b):
         """Calculate a modulo b.
 
